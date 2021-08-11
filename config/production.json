@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://ahmad123:ahmad123@contactkeeper.ulbup.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "jwtSecret": "secret",
+
+  "mongo": "mongodb://localhost:27017/contactkeeper"
+}
